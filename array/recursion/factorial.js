@@ -11,3 +11,4 @@ function factorial(n, res){
 }
 const result = factorial(n, 1);
 console.log(result);
+// factorial code
